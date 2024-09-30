@@ -1,4 +1,4 @@
-**This is my fork of [orangehill/iseed](https://github.com/orangehill/iseed).** I updated a few things and added iseed:all command.
+**This is another fork of https://github.com/cheesegrits/iseed (fork of [orangehill/iseed](https://github.com/orangehill/iseed) with updated few things and added iseed:all command)
 
 **Inverse seed generator (Iseed)** is a Laravel package that provides a method to generate a new seed file based on data from the existing database table.
 
