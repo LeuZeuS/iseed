@@ -3,7 +3,7 @@
 namespace Cheesegrits\Iseed\Commands;
 
 use Illuminate\Console\Command;
-use function Cheesegrits\Iseed\env;
+use function env;
 
 class IseedAllCommand extends Command
 {
